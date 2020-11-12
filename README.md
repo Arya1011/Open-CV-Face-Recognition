@@ -1,2 +1,3 @@
 # Open-CV-Face-Recognition
-A face recognition and Classifier Built using Python,Open-CV.Stores Face Data in a Local Repo and Uses KNN(K nearest Neighbours Algorithm)
+Built using Python,Open-CV. Stores Facial Data in a Local Repo and Uses KNN(K nearest Neighbours Algorithm) for classification.
+Haarcascade classfifier is used which is a pre-trained model used for face detection.
